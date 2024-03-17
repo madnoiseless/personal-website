@@ -8,4 +8,3 @@ This repository contains the HTML, CSS, and other resources for Mohammad Salehi'
 To view the live preview of Mohammad Salehi's Personal Website, visit [https://madnoiseless.github.io/personal-website/](https://madnoiseless.github.io/personal-website/).
 
 This project serves as a static website showcasing Mohammad's web development skills, creativity, and ability to design and structure engaging web content. It also demonstrates his proficiency in HTML and CSS, allowing him to create visually appealing and informative pages for various purposes.
-g
